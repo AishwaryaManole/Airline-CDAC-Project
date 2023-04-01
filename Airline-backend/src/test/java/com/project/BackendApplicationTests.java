@@ -1,10 +1,10 @@
-package com.project.Airline_Ticket_Booking_System;
+package com.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AirlineTicketBookingSystemApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {

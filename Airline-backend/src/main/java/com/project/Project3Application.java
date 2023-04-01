@@ -1,13 +1,13 @@
-package com.project.Airline_Ticket_Booking_System;
+package com.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AirlineTicketBookingSystemApplication {
+public class Project3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AirlineTicketBookingSystemApplication.class, args);
+		SpringApplication.run(Project3Application.class, args);
 	}
 
 }
